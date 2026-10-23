@@ -1,0 +1,4 @@
+interface:
+  display_name: "Maestro Dev"
+  short_description: "Coordene agentes para desenvolver, revisar e validar"
+  default_prompt: "Use $fluxo-desenvolvimento para implementar esta tarefa, conferindo o projeto e aprovando apenas as decisões relevantes."
