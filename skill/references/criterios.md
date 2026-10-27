@@ -4,6 +4,16 @@ Leia para tarefas não triviais, triagem de apontamentos ou decisões pendentes.
 
 ## Autonomia e aprovação
 
+Antes de encaminhar trabalho, o Chefe consulta os dados disponíveis, esclarece lacunas relevantes e aguarda as respostas necessárias, monta o plano e comunica seu resumo ao usuário. O resumo informa a execução; não cria aprovação inicial universal. Confira estes cenários:
+
+| Cenário de entrada | Conduta |
+|---|---|
+| Pedido claro e autorizado | Planejar, comunicar o resumo e seguir sem confirmação extra |
+| Lacuna que altera comportamento, escopo, custo ou risco | Consultar fontes disponíveis; perguntar o que ainda faltar e aguardar resposta antes da parte dependente; então planejar, resumir e encaminhar |
+| Correção simples que cumpre as seis condições do SKILL.md | Resumo proporcional de alteração e verificação; Chefe executa sem forçar especialistas |
+| Trabalho que exige especialistas | Plano com etapas, dependências, responsabilidades/áreas, critérios, restrições, verificações e retorno; resumo visível antes de qualquer delegação |
+| Continuação no escopo já alinhado | Preservar decisões e autorizações; atualizar resumo antes do encaminhamento sem reabrir dúvidas resolvidas |
+
 | Situação | Ação do Chefe |
 |---|---|
 | Detalhe pequeno conforme padrão existente | Resolver e verificar |

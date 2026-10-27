@@ -8,9 +8,12 @@ Use apenas os campos pertinentes. O registro pertence ao projeto da tarefa, não
 - Critérios de aceitação observáveis:
 - Dentro / fora do escopo:
 - Contexto confirmado e referências:
+- Esclarecimentos relevantes e respostas recebidas (ou ausência de lacunas relevantes):
 - Regras e restrições locais:
 - Classificação, risco e motivo:
 - Especialistas e responsáveis por arquivos/áreas:
+- Plano: etapas, sequência e dependências entre entregas:
+- Resumo já comunicado ao usuário: texto ou referência acessível à mensagem, antes da delegação (não implica pedido de aprovação inicial):
 - Decisões aprovadas:
 - Verificações esperadas:
 - Entrega solicitada:
